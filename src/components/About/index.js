@@ -1,4 +1,5 @@
 import React from 'react';
+import ProfilePic from '../../assets/images/profile.png';
 
 function About() {
     return (
@@ -8,14 +9,17 @@ function About() {
 			</div>
             <div className="center">
 				<img
-					src={require('../../assets/images/profile.png').default}
+					src={ProfilePic}
 					alt="about-me"
 					className="photo"
 				/>
 			</div>
-            <div>
+            <div className="about-me">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+                    Hi my name is Tony! I'm an aspiring web developer based out of Toronto, ON with my small family. My journey into tech started last year when I lost my corporate sales job during the pandemic. I took the opportunity to reinvent myself and pursue a new and challenging career in web development.
+                </p>
+                <p>
+                    I'm currently enrolled at the University of Toronto SCS Full-Stack Web Development Bootcamp. The program has helped me build a strong foundation in JavaScript, HTML5, CSS3 and responsive web design. I also possess knowledge in object-oriented programming of progressive web-applications using MongoDB, Express.js, React.js and Node.js (MERN) technology stack. I'm very excited to be able to build creative and innovative applications going forward!
                 </p>
             </div>
         </section>
