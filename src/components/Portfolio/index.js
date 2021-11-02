@@ -2,7 +2,7 @@ import React from 'react';
 import BudgetTracker from '../../assets/images/budget-tracker.png';
 import FoodieLove from '../../assets/images/foodie-love.png';
 import NoteTaker from '../../assets/images/note-taker.png';
-import OhSnap from '../../assets/images/oh-snap.png';
+import WorkDay from '../../assets/images/work-day.png';
 import Moolah from '../../assets/images/moolah.png';
 import Taskinator from '../../assets/images/taskinator.png';
 
@@ -71,16 +71,16 @@ function Portfolio() {
             <div class="col">
                 <div class="card">
                     <img
-                        src={OhSnap}
-                        alt="ohSnap"
+                        src={WorkDay}
+                        alt="workDay"
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">Oh Snap!</p>
-                        <a href="https://github.com/TPhondeth/photo-port" target="_blank" rel="noopener noreferrer">
+                        <p className="center">Work Day Schedular</p>
+                        <a href="https://github.com/TPhondeth/challenge-week5" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://tphondeth.github.io/photo-port/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://tphondeth.github.io/challenge-week5/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
