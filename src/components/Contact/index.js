@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { validateEmail } from '../../utils/helpers';
+import Contact from '../../assets/images/contact.png';
 
 function ContactForm() {
     const [formState, setFormState] = useState({ name: '', email: '', message: '' });
@@ -41,7 +42,14 @@ return (
         <div className="center">
             <h1 className="page-header">Let's connect</h1>
         </div>
-        <h1 data-testid="h1tag">Send me an email!</h1>
+        <div className="center">
+        <img
+					src={Contact}
+					alt="contact-photo"
+					className="photo"
+				/>
+        </div>
+        <div className="center">
         <form id="contact-form" onSubmit={handleSubmit}>
             <div>
                 <label htmlFor="name">Name:</label>
@@ -62,6 +70,7 @@ return (
             )}
                 <button className="btn btn-primary" data-testid="button" type="submit">Submit</button>
         </form>
+        </div>
     </section>
     );
 }
