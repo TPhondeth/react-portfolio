@@ -1,5 +1,16 @@
 import React from 'react';
-import { FaGitAlt, FaGithub, FaHtml5, FaCss3Alt, FaJsSquare, FaBootstrap, FaNode, FaReact, FaNpm, } from "react-icons/fa";
+import { 
+	FaGitAlt, 
+	FaGithub, 
+	FaHtml5, 
+	FaCss3Alt, 
+	FaJsSquare, 
+	FaBootstrap, 
+	FaNode, FaReact, 
+	FaNpm, 
+	FaCloudDownloadAlt 
+} 
+from "react-icons/fa";
 import { SiHeroku, SiGraphql, SiMysql, } from "react-icons/si";
 import { DiJqueryLogo, DiMongodb } from "react-icons/di";
 import myResume from '../../assets/files/tony.PDF';
@@ -9,11 +20,11 @@ function Resume() {
     return (
         <section>
             <div className="center">
-				<h1 className="page-header">Resume</h1>
+				<h1 className="page-header">My Resume</h1>
 			</div>
 			<div className="center">
 				<a href={myResume} download>
-					<h4>Download</h4>
+					<h4>Download <FaCloudDownloadAlt /></h4>
 				</a>
 			</div>
             <Row>
