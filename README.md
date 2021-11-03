@@ -10,7 +10,7 @@ The challenge this week is to create a portfolio, using your new React skills to
 <img width="1436" alt="Screen Shot 2021-11-02 at 9 38 49 PM" src="https://user-images.githubusercontent.com/77017355/139999907-832f9577-fef2-44de-997b-87e5b20ea416.png">
 
 ## Deployed URL
-https://pure-dusk-48925.herokuapp.com/
+https://tphondeth.github.io/react-portfolio/ 
 
 ## Questions
 - Github: [TPhondeth](https://github.com/TPhondeth)
