@@ -523,7 +523,12 @@ footer {
 
 	.mx-2
 	{
-		font-size: .38rem;
+		font-size: .6rem;
+	}
+
+	.contact {
+		padding-top: 0;
+		padding-left: 0;
 	}
 
 	.contact h1 {
@@ -531,16 +536,16 @@ footer {
 	}
 
 	form {
-		padding-right: 275px;
+		padding-right: 200px;
 	}
 
 	input {
-		width: 250px;
+		width: 200px;
 	}
 
 	textarea {
-		width: 250px;
-		height: 120px;
+		width: 200px;
+		height: 60px;
 		border: 3px solid #cccccc;
 		padding: 5px;
 	}
