@@ -319,7 +319,11 @@ textarea {
 }
 
 .contact h1 {
-	padding-top: 9px;
+	padding-bottom: 15px;
+}
+
+.center h1 {
+	padding-bottom: 15px;
 }
 
 footer {
