@@ -350,7 +350,7 @@ footer {
 }
 
 .photo {
-	width: auto;
+	width: 100%;
 	height: auto;
 	max-width: 380px;
 	max-height: 540px;
