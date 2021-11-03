@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.ffec03e6.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.806cfb73.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.806cfb73.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.74a04e9e.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.3db2d713.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.3db2d713.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.6c598b7e.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.6c598b7e.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/react-portfolio/static/css/2.8c0e6b67.chunk.css",
@@ -12,13 +12,13 @@
     "static/js/3.bb077e27.chunk.js.map": "/react-portfolio/static/js/3.bb077e27.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/react-portfolio/static/css/2.8c0e6b67.chunk.css.map",
-    "static/css/main.ffec03e6.chunk.css.map": "/react-portfolio/static/css/main.ffec03e6.chunk.css.map",
+    "static/css/main.74a04e9e.chunk.css.map": "/react-portfolio/static/css/main.74a04e9e.chunk.css.map",
     "static/js/2.fa26db19.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.fa26db19.chunk.js.LICENSE.txt",
     "static/media/budget-tracker.bd2bf0cf.png": "/react-portfolio/static/media/budget-tracker.bd2bf0cf.png",
     "static/media/foodie-love.48f6669c.png": "/react-portfolio/static/media/foodie-love.48f6669c.png",
     "static/media/moolah.be6e3be6.png": "/react-portfolio/static/media/moolah.be6e3be6.png",
     "static/media/note-taker.e5def9cb.png": "/react-portfolio/static/media/note-taker.e5def9cb.png",
-    "static/media/profile.2de330ca.png": "/react-portfolio/static/media/profile.2de330ca.png",
+    "static/media/profile.6a636642.png": "/react-portfolio/static/media/profile.6a636642.png",
     "static/media/taskinator.73ac9e4a.png": "/react-portfolio/static/media/taskinator.73ac9e4a.png",
     "static/media/tony.2d1e126f.PDF": "/react-portfolio/static/media/tony.2d1e126f.PDF",
     "static/media/work-day.e44a9cf6.png": "/react-portfolio/static/media/work-day.e44a9cf6.png"
@@ -27,7 +27,7 @@
     "static/js/runtime-main.6c598b7e.js",
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.fa26db19.chunk.js",
-    "static/css/main.ffec03e6.chunk.css",
-    "static/js/main.806cfb73.chunk.js"
+    "static/css/main.74a04e9e.chunk.css",
+    "static/js/main.3db2d713.chunk.js"
   ]
 }
