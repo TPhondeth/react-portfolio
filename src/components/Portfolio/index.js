@@ -1,9 +1,9 @@
 import React from 'react';
 import BudgetTracker from '../../assets/images/budget-tracker.png';
 import FoodieLove from '../../assets/images/foodie-love.png';
-import NoteTaker from '../../assets/images/note-taker.png';
+import ShopShop from '../../assets/images/shop-shop.png';
 import WorkDay from '../../assets/images/work-day.png';
-import Moolah from '../../assets/images/moolah.png';
+import Squid from '../../assets/images/squid.png';
 import Taskinator from '../../assets/images/taskinator.png';
 
 function Portfolio() {
@@ -54,16 +54,16 @@ function Portfolio() {
             <div class="col">
                 <div class="card">
                     <img
-                        src={NoteTaker}
-                        alt="noteTaker"
+                        src={ShopShop}
+                        alt="shopShop"
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">Note Taker</p>
-                        <a href="https://github.com/TPhondeth/challenge-week11" target="_blank" rel="noopener noreferrer">
+                        <p className="center">Shop-Shop</p>
+                        <a href="https://github.com/TPhondeth/shop-shop" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://challenge-week11.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://mernshopshop.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>
@@ -92,16 +92,16 @@ function Portfolio() {
             <div class="col">
                 <div class="card">
                     <img
-                        src={Moolah}
+                        src={Squid}
                         alt="moolah"
                         class="card-img-top"
                     />
                     <div class="card-body">
-                        <p className="center">Moolah</p>
-                        <a href="https://github.com/TPhondeth/Moolah" target="_blank" rel="noopener noreferrer">
+                        <p className="center">The Squid Store</p>
+                        <a href="https://github.com/TPhondeth/the-squid-store" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">GitHub</button>
                         </a>
-                        <a href="https://moolahwallet.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://thesquidstore.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                             <button className="btn btn-primary">Website</button>
                         </a>
                     </div>

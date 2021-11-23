@@ -5,8 +5,8 @@
 main {
 	background: linear-gradient(
 		90deg,
-		#ffffff,
-		#47a4ac
+		#f1fafe,
+		#acc9dc
 	);
 	padding-bottom: 55px;
 
@@ -14,12 +14,12 @@ main {
 
 :root {
 	--primary: #3a86ff;
-	--secondary: #c0252a;
+	--secondary: #acc9dc;
 	--tertiary: #dac225;
-	--quaternary: #01564d;
+	--quaternary: #dd5065;
 	--quinary:rgb(228, 46, 1);
 	--light: #bfd7ea;
-	--dark: #272f1e;
+	--dark: #041838;
 	--darker: #39a9db;
 	--error: rgb(228, 46, 1);
 	--spacing-one: calc(1rem * 0.5);
@@ -42,11 +42,10 @@ body {
 }
 
 h1,
-h2,
 h3,
 h4,
 h6 {
-	font-family: 'Abel', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
 	margin: 5px 0;
 	line-height: 1.25;
@@ -114,14 +113,16 @@ a:hover {
 header {
 	background: linear-gradient(
 		90deg,
-		var(--tertiary),
-		#b12024
-	);
+		#3187B8,
+		#0d3b58
+	); 
+
+	/* background: #3187B8; */
 	display: flex;
 	justify-content: space-between;
 	padding: 1rem;
 	text-align: center;
-	border-bottom: 2px solid var(--secondary);
+	/* border-bottom: 2px solid #0d3b58; */
 	position: sticky;
 	top: 0;
 }
@@ -211,10 +212,11 @@ nav li:hover {
 }
 
 .name h2 {
-	font-size: 2.5rem;
+	font-size: 2.8rem;
 	font-weight: bold;
 	padding: 5px;
-	color: var(--dark);
+	font-family: 'Montserrat', sans-serif;
+	color: #dd5065;
 }
 
 .contact h1 {
@@ -253,7 +255,7 @@ nav li:hover {
 .mx-2 {
 	margin-right: var(--spacing-two);
 	margin-left: var(--spacing-two);
-	color: #ffffff;
+	color: #f6f2ec;
 	font-size: 1.35rem;
 }
 
@@ -338,19 +340,19 @@ footer {
 	display: flex;
 	justify-content: space-evenly;
 	align-items: center;
-	border-top: 2px solid var(--secondary);
 	background: linear-gradient(
 		90deg,
-		var(--tertiary),
-		#b12024
-	);
+		#3187B8,
+		#0d3b58
+	); 
+	/* background: #3187b8; */
 }
 
 .logo {
 	cursor: pointer;
 	list-style: none;
 	font-size: 40px;
-	color: var(--quaternary);
+	color: #dd5065;
 }
 
 .logo:hover {
