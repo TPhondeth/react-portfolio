@@ -16,13 +16,13 @@ function About() {
 			</div>
             <div className="about-me">
                 <p>
-                    Hi I'm Tony - an aspiring full-stack web developer based out of Toronto, Canada. My journey into tech started last year when I lost my corporate sales job due to the pandemic. I took the opportunity to reinvent myself and pursue a new and challenging career in web development.
+                    Hi I'm Tony - an aspiring full-stack web developer based out of Toronto, Canada. My journey into tech started at the end of 2020 when I lost my corporate sales job due to the pandemic. I took the opportunity to reinvent myself and pursue a new and challenging career in web development.
                 </p>
                 <p>
-                    I have just completed the Full-Stack Web Development Boot Camp at the University of Toronto. The program has helped me build a strong foundation in JavaScript, HTML, CSS and responsive web design. I also have knowledge in object-oriented programming of progressive web-applications using MongoDB, Express.js, React.js and Node.js the (MERN) technology stack. I've finally found a career that I'm passionate about and I'm excited to continue developing my skills and learning new technologies.
+                    I'm leveraging my telecommunications sales background to build a more intuitive user experience on the web. I recently earned a certificate in full-stack web development from the University of Toronto, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. Known as an innovative problem solver passionate about developing apps, with a focus on the MERN technology stack. I’m excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.
                 </p>
                 <p>
-                    When I'm not coding I enjoy cooking, spending time with my family and keeping fit. I've been on a fitness journey since the pandemic has started and I'm in the best shape of my life. I weight train daily and go for 10km runs several times a week.
+                    When I'm not coding I enjoy cooking, spending time with my family and keeping fit. I've been on a fitness journey since the start of the pandemic and I'm in the best shape of my life. I weight train daily and go for 10km runs several times a week.
                 </p>
             </div>
         </section>
