@@ -7,7 +7,7 @@
 The challenge this week is to create a portfolio, using your new React skills to help set you apart from other developers whose portfolios don’t use the latest technologies.
 
 ## Screenshot
-<img width="1436" alt="Screen Shot 2021-11-02 at 9 38 49 PM" src="https://user-images.githubusercontent.com/77017355/139999907-832f9577-fef2-44de-997b-87e5b20ea416.png">
+<img width="1438" alt="Screen Shot 2021-11-25 at 11 10 22 PM" src="https://user-images.githubusercontent.com/77017355/143525711-3e01f801-1869-4c86-b505-739239c80c06.png">
 
 ## Deployed URL
 https://tphondeth.github.io/react-portfolio/ 
