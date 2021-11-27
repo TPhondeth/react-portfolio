@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.dcf56cdf.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.bc11a9ce.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.bc11a9ce.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.e848862c.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.e848862c.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.6c598b7e.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.6c598b7e.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/react-portfolio/static/css/2.8c0e6b67.chunk.css",
@@ -18,10 +18,10 @@
     "static/media/contact.22208dfa.png": "/react-portfolio/static/media/contact.22208dfa.png",
     "static/media/foodie-love.48f6669c.png": "/react-portfolio/static/media/foodie-love.48f6669c.png",
     "static/media/profile.33fde4f1.png": "/react-portfolio/static/media/profile.33fde4f1.png",
+    "static/media/resume.8164f196.PDF": "/react-portfolio/static/media/resume.8164f196.PDF",
     "static/media/shop-shop.0534f997.png": "/react-portfolio/static/media/shop-shop.0534f997.png",
     "static/media/squid.2b9ad846.png": "/react-portfolio/static/media/squid.2b9ad846.png",
     "static/media/taskinator.73ac9e4a.png": "/react-portfolio/static/media/taskinator.73ac9e4a.png",
-    "static/media/tony.8164f196.PDF": "/react-portfolio/static/media/tony.8164f196.PDF",
     "static/media/work-day.e44a9cf6.png": "/react-portfolio/static/media/work-day.e44a9cf6.png"
   },
   "entrypoints": [
@@ -29,6 +29,6 @@
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.fa26db19.chunk.js",
     "static/css/main.dcf56cdf.chunk.css",
-    "static/js/main.bc11a9ce.chunk.js"
+    "static/js/main.e848862c.chunk.js"
   ]
 }
