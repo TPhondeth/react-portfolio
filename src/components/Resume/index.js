@@ -13,7 +13,7 @@ import {
 from "react-icons/fa";
 import { SiHeroku, SiGraphql, SiMysql, } from "react-icons/si";
 import { DiJqueryLogo, DiMongodb } from "react-icons/di";
-import myResume from '../../assets/files/tony.PDF';
+import myResume from '../../assets/files/resume.PDF';
 import { Col, Row } from 'react-bootstrap';
 
 function Resume() {
